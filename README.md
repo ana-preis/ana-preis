@@ -25,6 +25,6 @@
 ##
   
 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, CSS, Python
 - 😄 Pronouns: she/her
 
