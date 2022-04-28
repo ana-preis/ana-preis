@@ -25,6 +25,6 @@
 ##
   
 
-- 🌱 I’m currently learning Javascript, CSS, Python
+- 🌱 I’m currently learning Java Spring Boot, NodeJs, ReactNative, SQL
 - 😄 Pronouns: she/her
 
