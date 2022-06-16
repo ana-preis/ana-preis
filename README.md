@@ -25,6 +25,6 @@
 ##
   
 
-- 🌱 I’m currently learning Java Spring Boot, NodeJs, ReactNative, SQL
+- 🌱 I’m currently learning GoLang, NodeJs, ReactNative, ReactJS, SQL
 - 😄 Pronouns: she/her
 
